@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Jonatassn](https://github.com/jonatassn)
